@@ -1,0 +1,4 @@
+*.suo
+*.user
+ConfigLoader/bin/
+ConfigLoader/obj/

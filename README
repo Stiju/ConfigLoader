@@ -1,0 +1,12 @@
+# ConfigLoader
+
+Website: http://stiju.com
+
+ConfigLoader is a tool for Tibia that makes it easier to load between 
+multiple configuration files and run multiple instances of the client (MC).
+The perfect tool for you who plays on many characters and need different 
+hotkey settings for them.
+
+## How to use
+* Extract ConfigLoader.exe to the tibia folder.
+* Run ConfigLoader.exe, select a .cfg file and press Start.
